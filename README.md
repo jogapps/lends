@@ -9,8 +9,7 @@
  
 # How to run this application
 
-Clone Project and run
-
+- Clone Project and run
     ```
     yarn install
     ```
