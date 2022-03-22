@@ -45,11 +45,6 @@ Base url: https://lendsqr-gp.herokuapp.com/api/v1
     /user/login
     {email: "name@email.com", password: "password"}
     ```
- - Register
-    ```
-    /user/register
-    {email: "name@email.com", password: "password"}
-    ```
  - Fund Wallet (Token Restricted)
     ```
     /wallet/fund
